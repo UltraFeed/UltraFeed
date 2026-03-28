@@ -1,1 +1,2 @@
-![UltraFeed GitHub stats](https://github-readme-stats.vercel.app/api?username=ultrafeed&theme=transparent&show_icons=true&hide_title=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ultrafeed&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ultrafeed&theme=github_dark)
